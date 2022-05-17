@@ -68,3 +68,7 @@ ingress
 
 successfully deployed
 <img width="1440" alt="proof - of - success" src="https://user-images.githubusercontent.com/59553910/168738572-f85c1292-9103-40b3-983b-e7bb35bdca3d.png">
+
+# Issues Faced
+
+For the most part, I straight away followed the demo video and it pretty much walked me through the assignment. The first time I try adding a new workflow (deploy and build on GKE) it threw some error and there was a red cross mark which read "failed". I restarted with a new repository and everything worked fine, that was the only problem I faced.

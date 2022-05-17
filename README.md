@@ -71,4 +71,4 @@ successfully deployed
 
 # Issues Faced
 
-For the most part, I straight away followed the demo video and it pretty much walked me through the assignment. The first time I try adding a new workflow (deploy and build on GKE) it threw some error and there was a red cross mark which read "failed". I restarted with a new repository and everything worked fine, that was the only problem I faced.
+For the most part, I straight away followed the demo video and it pretty much walked me through the assignment. The first time I try adding a new workflow (deploy and build to GKE) it threw some error and there was a red cross mark which read "failed". I restarted with a new repository and everything worked fine, that was the only problem I faced.
